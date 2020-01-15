@@ -15,5 +15,5 @@
 ## Demo video
 
 <a href="https://youtu.be/0hCPjX7gd8k
-" target="_blank"><img src="http://img.youtube.com/vi/0hCPjX7gd8k" 
+" target="_blank"><img src="http://img.youtube.com/vi/0hCPjX7gd8k/0.jpg"  
 alt="Demo video" width="240" height="180" border="10" /></a>
