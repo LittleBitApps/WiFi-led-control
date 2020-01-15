@@ -1,0 +1,7 @@
+#Sun Feb 03 00:03:50 CET 2019
+base.0=/media/nelis/Toshiba/Stack/Documenten/Projects/WiFi-led-control/Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/media/nelis/Toshiba/Stack/Documenten/Projects/WiFi-led-control/Android/app/build/intermediates/dex/debug/mergeExtDexDebug/out
